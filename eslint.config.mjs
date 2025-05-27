@@ -10,7 +10,16 @@ const compat = new FlatCompat({
 });
 
 const eslintConfig = [
-  ...compat.extends("next/core-web-vitals", "next/typescript"),
+  ...compat.config({
+    extends: [
+      "next/core-web-vitals",
+      "next/typescript"
+    ],
+    rules: {
+      // Image element optimization is not compatible with output: 'export'
+      '@next/next/no-img-element': 'off'
+    }
+  })
 ];
 
 export default eslintConfig;

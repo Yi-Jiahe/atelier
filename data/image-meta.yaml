@@ -1,0 +1,75 @@
+artworks:
+  - root: adc1ca75-6fa9-4ab1-bb5b-1a8554c2f7da
+    refs:
+      adc1ca75-6fa9-4ab1-bb5b-1a8554c2f7da:
+        href: https://dbckek1mh7k5n.cloudfront.net/2025-05-27_BauForMeFuwawa.jpg
+        timestamp: 2025-05-26T22:24:02+0800
+
+  - root: fcc81a84-f64b-4d5b-ab61-ef4e711bbb1f
+    refs:
+      fcc81a84-f64b-4d5b-ab61-ef4e711bbb1f:
+        href: https://dbckek1mh7k5n.cloudfront.net/FuwawaHuggingMocodaki.jpg
+        timestamp: 2025-02-02T23:25:32+0800
+  
+  - root: c78a553c-8dcf-40b0-9315-670b2db6c27f
+    refs:
+      c78a553c-8dcf-40b0-9315-670b2db6c27f:
+        href: https://dbckek1mh7k5n.cloudfront.net/VampireDressNimi.jpg
+        timestamp: 2025-02-01T21:12:53+0800
+
+  - root: 74c7a3eb-915d-47e4-8de2-e3eccfe358e8
+    refs:
+      74c7a3eb-915d-47e4-8de2-e3eccfe358e8:
+        href: https://dbckek1mh7k5n.cloudfront.net/Nimi Dullahan.png
+        timestamp: 2025-01-24T18:41:55+0800
+
+  - root: 7ab64f4f-917f-42bf-a9be-a4f22edb4f4c
+    refs:
+      7ab64f4f-917f-42bf-a9be-a4f22edb4f4c:
+        href: https://dbckek1mh7k5n.cloudfront.net/FWMCBaufit.jpg
+        timestamp: 2025-01-14T23:12:26+0800
+
+  - id: b6822076-d593-41cd-ab12-d8f2e2851139
+    alt: "Fauna in a cat hoodie"
+    root: 59b5ef2f-093a-435b-9247-1937f2d8cba6
+    refs:
+      59b5ef2f-093a-435b-9247-1937f2d8cba6:
+        href: https://dbckek1mh7k5n.cloudfront.net/2024-12-05_CatHoodieFauna.jpg
+        timestamp: 2024-12-05T00:22:44+0800
+
+  - root: 1b8f6e15-6cec-44d5-8035-473ddd603546
+    refs:
+      1b8f6e15-6cec-44d5-8035-473ddd603546:
+        href: https://dbckek1mh7k5n.cloudfront.net/Fauna&Snail.jpg
+        timestamp: 2024-12-03T22:42:29+0800
+  
+  - root: 9d51f033-e954-4e52-a609-f87327b7fb28
+    refs:
+      9d51f033-e954-4e52-a609-f87327b7fb28:
+        href: https://dbckek1mh7k5n.cloudfront.net/Kirinborn.jpg
+        timestamp: 2024-12-02T23:48:42+0800
+
+  - root: f6b81e07-0c93-42c6-a3c1-c4612b2fd7f7
+    refs:
+      f6b81e07-0c93-42c6-a3c1-c4612b2fd7f7:
+        href: https://dbckek1mh7k5n.cloudfront.net/3 - Gangster Fauna.png
+        timestamp: 2024-10-25T18:33:20+0800
+
+  - root: ef76cff7-dd31-4997-9fe2-50916ae26014
+    refs:
+      ef76cff7-dd31-4997-9fe2-50916ae26014:
+        href: https://dbckek1mh7k5n.cloudfront.net/2 - Police Fauna.png
+        timestamp: 2024-10-15T23:56:44+0800
+
+  - id: c4ad97a0-621b-4dce-b3cf-6ea3293e9489
+    root: 508eb354-19a8-459a-bcee-631e9ffce966
+    refs:
+      508eb354-19a8-459a-bcee-631e9ffce966:
+        href: https://dbckek1mh7k5n.cloudfront.net/1 - Nurse Fauna.png
+        timestamp: 2024-10-09T22:17:51+0800
+  
+  - root: f64fda39-7450-460a-9079-64af88133eaf
+    refs:
+      f64fda39-7450-460a-9079-64af88133eaf:
+        href: https://dbckek1mh7k5n.cloudfront.net/LordOfFrenziedFlameFuwawa.png
+        timestamp: 2024-09-22T23:10:54+0800
