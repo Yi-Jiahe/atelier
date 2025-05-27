@@ -1,5 +1,7 @@
 export type Metadata = {
-  artworks: Artwork[];
+  artworks: {
+    [key: string]: Artwork;
+  };
 };
 
 export type Artwork = {
@@ -16,7 +18,8 @@ export type Ref = {
 }
 
 
-export type Thumbnail = {
+export type ArtworkThumbnail = {
+  artworkKey: string;
   href: string;
   alt: string;
   timestamp: string;
