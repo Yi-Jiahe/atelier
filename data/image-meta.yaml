@@ -1,5 +1,6 @@
 artworks:
   5a396214-2d2c-452f-98de-da2702ff58f1:
+    title: "Bau For Me"
     root: adc1ca75-6fa9-4ab1-bb5b-1a8554c2f7da
     refs:
       adc1ca75-6fa9-4ab1-bb5b-1a8554c2f7da:
@@ -7,6 +8,7 @@ artworks:
         timestamp: 2025-05-26T22:24:02+0800
 
   7d1e5346-c4a6-4ec6-81f6-d85b36207ec7:
+    title: "Fuwawa Hugging Mocodaki"
     root: fcc81a84-f64b-4d5b-ab61-ef4e711bbb1f
     refs:
       fcc81a84-f64b-4d5b-ab61-ef4e711bbb1f:
@@ -14,6 +16,7 @@ artworks:
         timestamp: 2025-02-02T23:25:32+0800
   
   7d9e13dd-edfe-44fb-aa99-1ba1a5979949:
+    title: "Vampire Dress Nimi"
     root: c78a553c-8dcf-40b0-9315-670b2db6c27f
     refs:
       c78a553c-8dcf-40b0-9315-670b2db6c27f:
@@ -21,6 +24,7 @@ artworks:
         timestamp: 2025-02-01T21:12:53+0800
 
   6df24194-3700-4551-959f-34761958f706:
+    title: "Nimi Dullahan"
     root: 74c7a3eb-915d-47e4-8de2-e3eccfe358e8
     refs:
       74c7a3eb-915d-47e4-8de2-e3eccfe358e8:
@@ -28,6 +32,7 @@ artworks:
         timestamp: 2025-01-24T18:41:55+0800
 
   1e1aae55-5494-4dda-8fd6-c13829d91643:
+    title: "FWMC Baufit"
     root: 7ab64f4f-917f-42bf-a9be-a4f22edb4f4c
     refs:
       7ab64f4f-917f-42bf-a9be-a4f22edb4f4c:
@@ -35,7 +40,7 @@ artworks:
         timestamp: 2025-01-14T23:12:26+0800
 
   b6822076-d593-41cd-ab12-d8f2e2851139:
-    alt: "Fauna in a cat hoodie"
+    title: "Fauna in a cat hoodie"
     root: 59b5ef2f-093a-435b-9247-1937f2d8cba6
     refs:
       59b5ef2f-093a-435b-9247-1937f2d8cba6:
@@ -43,6 +48,7 @@ artworks:
         timestamp: 2024-12-05T00:22:44+0800
 
   a87fbf09-dd98-4c6b-83a9-5cc3323d3602:
+    title: "Fauna & Snail"
     root: 1b8f6e15-6cec-44d5-8035-473ddd603546
     refs:
       1b8f6e15-6cec-44d5-8035-473ddd603546:
@@ -50,6 +56,7 @@ artworks:
         timestamp: 2024-12-03T22:42:29+0800
   
   4ff1b478-956c-493b-b31a-a52b737554a9:
+    title: "Kirinborn"
     root: 9d51f033-e954-4e52-a609-f87327b7fb28
     refs:
       9d51f033-e954-4e52-a609-f87327b7fb28:
@@ -57,6 +64,7 @@ artworks:
         timestamp: 2024-12-02T23:48:42+0800
 
   8e66a141-ce40-4059-acb3-a62cfae1a4ea:
+    title: "Holoctober 2024: Day 3 - Gangster Fauna"
     root: f6b81e07-0c93-42c6-a3c1-c4612b2fd7f7
     refs:
       f6b81e07-0c93-42c6-a3c1-c4612b2fd7f7:
@@ -64,6 +72,7 @@ artworks:
         timestamp: 2024-10-25T18:33:20+0800
 
   2e1af671-7e76-4a13-ac47-1628f5c794d4:
+    title: "Holoctober 2024: Day 2 - Police Fauna"
     root: ef76cff7-dd31-4997-9fe2-50916ae26014
     refs:
       ef76cff7-dd31-4997-9fe2-50916ae26014:
@@ -71,6 +80,7 @@ artworks:
         timestamp: 2024-10-15T23:56:44+0800
 
   c4ad97a0-621b-4dce-b3cf-6ea3293e9489:
+    title: "Holoctober 2024: Day 1 - Nurse Fauna"
     root: 508eb354-19a8-459a-bcee-631e9ffce966
     refs:
       508eb354-19a8-459a-bcee-631e9ffce966:
@@ -78,8 +88,124 @@ artworks:
         timestamp: 2024-10-09T22:17:51+0800
   
   b2224315-02aa-420f-8da4-9e6060ef9817:
+    title: "Lord of Frenzied Flame Fuwawa"
     root: f64fda39-7450-460a-9079-64af88133eaf
     refs:
       f64fda39-7450-460a-9079-64af88133eaf:
         href: https://d173yh5b1ksl0l.cloudfront.net/LordOfFrenziedFlameFuwawa.png
         timestamp: 2024-09-22T23:10:54+0800
+
+  d54456c0-b621-4054-b10a-6d2a531b594f:
+    title: "Fauna Sneak"
+    root: 99e128cf-6ce8-4a27-95b2-b029650b2f74
+    refs:
+      99e128cf-6ce8-4a27-95b2-b029650b2f74:
+        href: https://d173yh5b1ksl0l.cloudfront.net/Fauna Sneak.png
+        timestamp: 2024-08-03T20:41:36+0800
+
+  
+  91318eef-d745-4cff-93fb-efeff6e49360:
+    title: "Aqua New Outfit"
+    root: 23681621-a103-4fd0-b9a6-054c00e4819b
+    refs:
+      6e27fc7a-1523-47eb-be6e-123960df7539:
+        href: https://d173yh5b1ksl0l.cloudfront.net/Aqua_new_outfit_prediction_2024-06-16.png
+        timestamp: 2024-06-16T22:35:22+0800
+      23681621-a103-4fd0-b9a6-054c00e4819b:
+        href: https://d173yh5b1ksl0l.cloudfront.net/Aqua new outfit prediction.png
+        timestamp: 2024-06-12T22:16:31+0800
+
+  84e540b5-3d70-411c-9146-f8b882afdf64:
+    title: "Krover"
+    root: 62de58aa-415c-4efc-a379-df13a061a863
+    refs:
+      62de58aa-415c-4efc-a379-df13a061a863:
+        href: https://d173yh5b1ksl0l.cloudfront.net/Krover.png
+        timestamp: 2024-05-12T11:42:26+0800
+
+  3713fc1e-53bf-4683-9753-9b12f41d76ec:
+    title: "Chained Fuwawa"
+    root: 7fad08a7-dc5d-4a13-bb60-6b4574bf549d
+    refs:
+      3098c3e5-301a-4b4c-8a85-2ff1558ffa6f:
+        href: https://d173yh5b1ksl0l.cloudfront.net/Chained-Fuwawa_1.jpg
+        timestamp: 2024-05-01T21:38:47+0800
+      7fad08a7-dc5d-4a13-bb60-6b4574bf549d:
+        href: https://d173yh5b1ksl0l.cloudfront.net/Chained-Fuwawa_0.jpg
+        timestamp: 2024-05-01T13:04:00+0800
+
+  26a6ff43-15ab-49cb-92b5-212da31e06c5:
+    title: "Fuwawa no imouto konna ni kawaii wake ga nai"
+    root: 4b4b7b14-4811-4b6c-80c7-6ee7beace85f
+    refs:
+      4b4b7b14-4811-4b6c-80c7-6ee7beace85f:
+        href: https://d173yh5b1ksl0l.cloudfront.net/Fuwawa-no-imouto-konna-ni-kawaii-wake-ga-nai.png
+        timestamp: 2024-04-20T00:10:27+0800
+
+  6a3469bf-d47c-4fe1-94e0-2f484ea410eb:
+    title: "Let Ina Cook"
+    root: f482b61c-404a-4dcc-9c2b-36752db2e460
+    refs:
+      f482b61c-404a-4dcc-9c2b-36752db2e460:
+        href: https://d173yh5b1ksl0l.cloudfront.net/LetInaCook.png
+        timestamp: 2024-03-30T18:53:08+0800
+
+  28876b39-9ae7-4a58-8db4-66fc3f18e7b2:
+    title: "But Why Kronii"
+    root: b1ea8b69-930f-4bb1-b290-5b1865a3164e
+    refs:
+      b1ea8b69-930f-4bb1-b290-5b1865a3164e:
+        href: https://d173yh5b1ksl0l.cloudfront.net/ButWhy.png
+        timestamp: 2024-03-12T20:17:46+0800
+  
+  fbc5e493-2bb0-4f6c-ba9a-62bd584b90c7:
+    title: "Goth Fauna Frown Emote"
+    root: e5090f31-ef19-45c4-95d1-f502ebbe926f
+    refs:
+      e5090f31-ef19-45c4-95d1-f502ebbe926f:
+        href: https://d173yh5b1ksl0l.cloudfront.net/Goth Fauna Frown w Body.png
+        timestamp: 2024-03-12T18:30:45+0800
+
+  b2c7590a-4c4e-41d7-b4d5-7e98245bff6e:
+    title: "Fauna Laugh Emote"
+    root: 49b190b8-ac72-4deb-a6ee-3e824d42e7d3
+    refs:
+      49b190b8-ac72-4deb-a6ee-3e824d42e7d3:
+        href: https://d173yh5b1ksl0l.cloudfront.net/Fauna Laugh w Body.png
+        timestamp: 2024-03-12T17:59:32+0800
+
+  115e7c36-2ef8-45f7-b21f-6247b8f9cd11:
+    title: "Fauna Sprite"
+    root: 054683b4-2ebf-4450-9363-91d31ef1f79c
+    refs:
+      054683b4-2ebf-4450-9363-91d31ef1f79c:
+        href: https://d173yh5b1ksl0l.cloudfront.net/Fauna Chibi.png
+        timestamp: 2024-03-02T18:22:28+0800
+  
+  9f50a827-103c-42fc-9850-37ce5b454f5c:
+    title: "You're Frogging Awesome"
+    root: 6bce8e12-c466-486a-b861-bb58bb8132c8
+    refs:
+      6bce8e12-c466-486a-b861-bb58bb8132c8:
+        href: https://d173yh5b1ksl0l.cloudfront.net/You're Froggin Awesome.png
+        timestamp: 2024-02-12T14:38:12+0800
+
+  8e8adcd9-54df-47ff-a5d6-777fade297f0:
+    title: "Santa Megumin"
+    root: 375cba65-b3d7-4c66-953f-1cccde608c29
+    refs:
+      94a0ebc3-4cb1-4a17-b095-a5b0386e2185:
+        href: https://d173yh5b1ksl0l.cloudfront.net/santa_megumin_0.png
+        timestamp: 2016-12-11T00:00:00+0800
+      d06dee6c-d457-4f7f-a072-01a5cf054e85:
+        href: https://d173yh5b1ksl0l.cloudfront.net/santa_megumin_1.png
+        timestamp: 2016-12-10T00:00:00+0800
+      55066bc8-a854-4fc4-86f3-6c5898232ef1:
+        href: https://d173yh5b1ksl0l.cloudfront.net/santa_megumin_2.png
+        timestamp: 2016-12-09T00:00:00+0800
+      f0b7b838-10e3-436f-a0d9-2de18b16fe33:
+        href: https://d173yh5b1ksl0l.cloudfront.net/santa_megumin_3.png
+        timestamp: 2016-12-08T00:00:00+0800
+      375cba65-b3d7-4c66-953f-1cccde608c29:
+        href: https://d173yh5b1ksl0l.cloudfront.net/santa_megumin_4.jpeg
+        timestamp: 2016-12-07T00:00:00+0800
