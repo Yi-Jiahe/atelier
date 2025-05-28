@@ -23,10 +23,9 @@ export default function Home() {
       <main className="flex flex-col gap-[32px] row-start-2 items-center sm:items-start">
         <div className="grid grid-cols-[repeat(auto-fill,minmax(200px,1fr))] gap-[8px]">
           {thumbnails.map((thumbnail: ArtworkThumbnail, index: number) => {
-            // TO-DO: Add support for server sided resizing to reduce data transfer and better rescaling
             return (
               <a key={index} href={`artwork/${thumbnail.artworkKey}`} rel="noopener noreferrer">
-                <img src={thumbnail.href} alt={thumbnail.alt} style={{ width: '100%', height: '100%', objectFit: 'cover' }} />
+                <img src={`${thumbnail.href}?width=200`} alt={thumbnail.alt} style={{ width: '100%', height: '100%', objectFit: 'cover' }} />
               </a>
             );
           })}
